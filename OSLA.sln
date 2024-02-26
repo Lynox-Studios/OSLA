@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lash", "Lash\Lash.csproj", "{1B9AF077-F248-4C70-91B7-921765E5B4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9AF077-F248-4C70-91B7-921765E5B4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9AF077-F248-4C70-91B7-921765E5B4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9AF077-F248-4C70-91B7-921765E5B4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9AF077-F248-4C70-91B7-921765E5B4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
